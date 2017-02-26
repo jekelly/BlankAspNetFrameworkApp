@@ -14,6 +14,6 @@ namespace BlankAspNetFrameworkApp
         {
             ConfigureAuth(app);
         }
-    }
+    
 }
  
