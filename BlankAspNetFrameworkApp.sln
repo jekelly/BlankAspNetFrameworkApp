@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26128.2
+VisualStudioVersion = 15.0.26717.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankAspNetFrameworkApp", "BlankAspNetFrameworkApp\BlankAspNetFrameworkApp.csproj", "{03A4840D-5E8E-43BE-A796-7B7A1CBB544D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankAspNetFrameworkApp.Tests", "BlankAspNetFrameworkApp.Tests\BlankAspNetFrameworkApp.Tests.csproj", "{2BC68A93-7555-4FBF-9364-1F3953D2BA87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF06B4BC-8269-4CF3-B6D0-FC238E66D7B8}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +29,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD8DDB4E-5C3C-4F7E-BE65-EE288E50FE43}
 	EndGlobalSection
 EndGlobal
